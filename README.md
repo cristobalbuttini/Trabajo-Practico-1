@@ -131,4 +131,5 @@ Cada entidad tiene un script dedicado dentro de `scripts/`, que:
 ## ♻ Autor
 
 Cristobal Buttini  Legajo n° 9976
+Sosa Ricardp       Legajo n° 10255
 
