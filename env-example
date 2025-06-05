@@ -1,0 +1,5 @@
+DEV_DATABASE_URI='postgresql+psycopg2://usuario:password@localhost:5432/DEV_SYSACAD'
+APP_ENV=development
+#etiqueta de contexto (modo de desarrollo)
+
+
